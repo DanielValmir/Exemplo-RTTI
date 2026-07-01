@@ -1,0 +1,21 @@
+# Delphi / RAD Studio
+*.exe
+*.dll
+*.bpl
+*.dcp
+*.dcu
+*.local
+*.identcache
+*.~* 
+*.stat
+*.res
+*.rsm
+*.map
+*.skincfg
+*.dsk
+*.dproj.local
+*.exe.manifest
+*.txt~
+__history/
+__recovery/
+*.~dsk
